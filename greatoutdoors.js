@@ -19,4 +19,4 @@ GM_addStyle(`
     background-size: 40px;
 }
            `);
-console.log('ran');
+
