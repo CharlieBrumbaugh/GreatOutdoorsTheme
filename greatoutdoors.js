@@ -16,15 +16,20 @@ GM_addStyle(`
 .question-hyperlink:visited, .answer-hyperlink:visited, #hot-network-questions ul a:visited{
     color: brown;
 }
-.star-on{
+.star-off{
+    background-position: 3px 0px;
+    background-image: url(https://i.stack.imgur.com/7adsj.png);
+    background-size: 30px;
+}
+.star-on {
     background-position: 3px 0px;
     background-image: url(https://i.stack.imgur.com/tegjo.png);
     background-size: 30px;
 }
+
 .vote-up-on {
     background-position: 0px;
     background-image: url(https://i.stack.imgur.com/oTdiU.png);
     background-size: 40px;
 }
            `);
-
