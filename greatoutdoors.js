@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Great Outdoors Theme
-// @version       0.0.1
+// @version       0.0.2
 // @updateURL     https://raw.githubusercontent.com/CharlieBrumbaugh/GreatOutdoorsTheme/master/greatoutdoors.js
 // @namespace     https://github.com/CharlieBrumbaugh/GreatOutdoorsTheme
 // @description   Simple theme enhancements for the Outdoors.SE
