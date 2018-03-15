@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Great Outdoors Theme
-// @namespace     The Great Outdoors
+// @namespace     https://github.com/CharlieBrumbaugh/GreatOutdoorsTheme
 // @description   Simple theme enhancements for the Outdoors.SE
 // @include       https://outdoors.stackexchange.com*
 // @grant          GM_addStyle
